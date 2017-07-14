@@ -1,0 +1,34 @@
+body{
+    font-family: 'Lobster', cursive; 
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/7a/Nohat-wiki-logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+button#search {
+    margin-top: 20px;
+}
+input#searchTerm {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-primary.fix-result {
+    font-size: 27px;
+}
+
+a.content {
+    color: wheat;
+}
+
+p {
+    font-family: Time new roman;
+    font-size: 22px;
+}
+.btn-primary.fix-result {
+    border-radius: 10px;
+    font-size: 27px;
+}
+.margin-center {
+    margin-top: 10px;
+}
